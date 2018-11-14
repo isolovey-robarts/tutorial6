@@ -5,7 +5,7 @@ def function2(x):
     return x*x
 
 def function3(x, y):
-    return x-y*y+5
+    return x-y*y+4
 
 
 def main():
