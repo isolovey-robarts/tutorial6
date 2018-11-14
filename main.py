@@ -1,5 +1,5 @@
 def function1():
-    return 4
+    return 5
 
 def function2(x):
     return x*x
