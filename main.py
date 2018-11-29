@@ -4,7 +4,7 @@ def function1():
 
 def function2(x):
     """square a number"""
-    return x*x
+    return x*x-3
 
 def function5(x,y,z):
     """multiply and subtract"""
